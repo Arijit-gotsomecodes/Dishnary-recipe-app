@@ -11,7 +11,7 @@ Dishnary is meticulously designed to cater to the diverse palates and culinary c
 Dive into a world of culinary delights with Dishnary's expansive library of meal categories. From succulent meats to sumptuous paneer dishes, our app offers a curated selection of culinary treasures waiting to be discovered.
 
 ### Exquisite Dish Details
-Unlock the secrets behind each dish with comprehensive details meticulously curated by our culinary experts. From the precise ingredients and cooking time to the nutritional value, serving sizes, and difficulty level – Foodie equips you with everything you need to embark on your culinary adventure with confidence.
+Unlock the secrets behind each dish with comprehensive details meticulously curated by our culinary experts. From the precise ingredients and cooking time to the nutritional value, serving sizes, and difficulty level – Dishnary equips you with everything you need to embark on your culinary adventure with confidence.
 
 ### Rich Recipe Experience
 Experience the joy of cooking with step-by-step recipes that leave nothing to chance. Each recipe is meticulously crafted, offering detailed instructions, ingredient measurements, and even embedded YouTube video tutorials to guide you through the culinary process with finesse.
@@ -26,7 +26,7 @@ Fuelled by cutting-edge technologies, Foodie delivers a seamless user experience
 - Tailwind CSS
 
 ## Usage
-Unleash your inner chef and elevate your cooking prowess with Foodie's intuitive features:
+Unleash your inner chef and elevate your cooking prowess with Dishnary's intuitive features:
 1. Explore meal categories and select your desired dish.
 2. Delve into the intricacies of each dish, from ingredients to cooking methods.
 3. Follow the recipe instructions and bring your culinary creations to life.
@@ -49,4 +49,4 @@ Dishnary is proudly distributed under the MIT License, reflecting our commitment
 
 ---
 
-Experience the art of cooking like never before with Foodie – your culinary companion for culinary excellence and epicurean adventures. Join us on a journey where every dish tells a story, and every meal is a masterpiece waiting to be savored.
+Experience the art of cooking like never before with Dishnary – your culinary companion for culinary excellence and epicurean adventures. Join us on a journey where every dish tells a story, and every meal is a masterpiece waiting to be savored.
