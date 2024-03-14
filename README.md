@@ -7,16 +7,16 @@ Welcome to Dishnary – your ultimate culinary companion! Dishnary is a cutting-
 Dishnary is meticulously designed to cater to the diverse palates and culinary curiosities of individuals from all walks of life. Whether you're an amateur enthusiast eager to experiment in the kitchen or a seasoned chef seeking fresh inspiration, Dishnary is your indispensable ally.
 
  ## App Functionality
-### Seamless Meal Discovery
+- ### Seamless Meal Discovery
 Dive into a world of culinary delights with Dishnary's expansive library of meal categories. From succulent meats to sumptuous paneer dishes, our app offers a curated selection of culinary treasures waiting to be discovered.
 
-### Exquisite Dish Details
+- ### Exquisite Dish Details
 Unlock the secrets behind each dish with comprehensive details meticulously curated by our culinary experts. From the precise ingredients and cooking time to the nutritional value, serving sizes, and difficulty level – Dishnary equips you with everything you need to embark on your culinary adventure with confidence.
 
-### Rich Recipe Experience
+- ### Rich Recipe Experience
 Experience the joy of cooking with step-by-step recipes that leave nothing to chance. Each recipe is meticulously crafted, offering detailed instructions, ingredient measurements, and even embedded YouTube video tutorials to guide you through the culinary process with finesse.
 
-### Visual Delights
+- ### Visual Delights
 Immerse yourself in a visual feast with stunning images showcasing the tantalizing beauty of each dish. Let your senses come alive as you explore a gallery of culinary masterpieces, igniting your passion for gastronomy with every glance.
 
  ## Tech Stack
