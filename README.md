@@ -24,6 +24,7 @@ Fuelled by cutting-edge technologies, Foodie delivers a seamless user experience
 - React Native
 - Expo
 - Tailwind CSS
+- JavaScript
 
  ## Usage
 Unleash your inner chef and elevate your cooking prowess with Dishnary's intuitive features:
