@@ -1,7 +1,7 @@
 - # Dishnary App Documentation
 
 - ## Introduction
-Welcome to Dishnary – your ultimate culinary companion! Dishanry is a cutting-edge mobile application meticulously crafted to redefine the way users explore, engage with, and indulge in the art of cooking. With an intuitive interface and a wealth of features, Dishnary empowers users to embark on a gastronomic journey like never before.
+Welcome to Dishnary – your ultimate culinary companion! Dishnary is a cutting-edge mobile application meticulously crafted to redefine the way users explore, engage with, and indulge in the art of cooking. With an intuitive interface and a wealth of features, Dishnary empowers users to embark on a gastronomic journey like never before.
 
 - ## Target Audience
 Dishnary is meticulously designed to cater to the diverse palates and culinary curiosities of individuals from all walks of life. Whether you're an amateur enthusiast eager to experiment in the kitchen or a seasoned chef seeking fresh inspiration, Dishnary is your indispensable ally.
