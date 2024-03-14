@@ -61,7 +61,7 @@ Dishnary is proudly distributed under the MIT License, reflecting our commitment
 https://github.com/Arijit-gotsomecodes/recepie/assets/107923453/a37e5f3b-63e1-4803-8783-94dd46ad801c
 
 
-[Grive link for pictures and videos](https://drive.google.com/drive/folders/1A7YBfZLjyFfLgdxQFdh5UOoFMtAnpGzz)
+[Google drive link for pictures and videos](https://drive.google.com/drive/folders/1A7YBfZLjyFfLgdxQFdh5UOoFMtAnpGzz)
 ---
 
 Experience the art of cooking like never before with Dishnary – your culinary companion for culinary excellence and epicurean adventures. Join us on a journey where every dish tells a story, and every meal is a masterpiece waiting to be savored.
