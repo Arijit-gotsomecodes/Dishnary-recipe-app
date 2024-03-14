@@ -34,8 +34,8 @@ export default function WelcomeScreen() {
 
         {/*title and punchline*/}
         <View className='flex items-center space-y-2'>
-            <Text style={{fontSize: hp(7)}} className="font-bold text-white tracking-widest">
-                Foodie
+            <Text style={{fontSize: hp(6)}} className="font-bold text-white tracking-widest">
+                Dishnary
             </Text>
             <Text style={{fontSize: hp(2)}} className="font-medium text-white tracking-widest">
                 Chummeshwari Khana
